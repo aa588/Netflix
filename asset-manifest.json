@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Netflix/static/css/main.11da2aa4.css",
-    "main.js": "/Netflix/static/js/main.66501141.js",
+    "main.js": "/Netflix/static/js/main.66fb982d.js",
     "index.html": "/Netflix/index.html",
     "main.11da2aa4.css.map": "/Netflix/static/css/main.11da2aa4.css.map",
-    "main.66501141.js.map": "/Netflix/static/js/main.66501141.js.map"
+    "main.66fb982d.js.map": "/Netflix/static/js/main.66fb982d.js.map"
   },
   "entrypoints": [
     "static/css/main.11da2aa4.css",
-    "static/js/main.66501141.js"
+    "static/js/main.66fb982d.js"
   ]
 }
